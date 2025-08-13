@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FramerMotion/static/css/main.3feb9777.css",
+    "main.js": "/FramerMotion/static/js/main.535ceefc.js",
+    "static/media/Quicksand-Light.woff": "/FramerMotion/static/media/Quicksand-Light.d98669722a6e6691f69c.woff",
+    "static/media/Quicksand-Light.woff2": "/FramerMotion/static/media/Quicksand-Light.5ee7032dc0e3019c5f0c.woff2",
+    "index.html": "/FramerMotion/index.html",
+    "main.3feb9777.css.map": "/FramerMotion/static/css/main.3feb9777.css.map",
+    "main.535ceefc.js.map": "/FramerMotion/static/js/main.535ceefc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3feb9777.css",
+    "static/js/main.535ceefc.js"
+  ]
+}
